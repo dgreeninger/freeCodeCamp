@@ -13,7 +13,7 @@ const styles = `
 .app-layout li,
 .app-layout a,
 .app-layout span {
-  font-size: 21.5px;
+  font-size: 22.5px;
 }
 .app-layout hr {
   background-image: linear-gradient(to right, rgba(0, 100, 0, 0), rgba(0, 100, 0, 0.75), rgba(0, 100, 0, 0));
